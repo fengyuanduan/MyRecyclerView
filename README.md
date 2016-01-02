@@ -1,0 +1,2 @@
+# MyRecyclerView
+用RecyclerView实现一个大图随小图滑动联动的画廊
